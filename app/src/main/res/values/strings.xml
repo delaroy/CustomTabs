@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChromeCustomTab</string>
+    <string name="default_test_url">http://www.delaroystudios.com</string>
+    <string name="label_start_custom_tab">Open Custom Tab</string>
+    <string name="title_activity_simple_chrome_tab"> Chrome Custom Tab</string>
+    <string name="description_activity_simple_chrome_tab">It is a simple implementation of the Chrome Custom Tabs
+    without any customizations, warm-up or pre-fetch
+    </string>
+    <string name="title_activity_webview">WebviewActivity</string>
+</resources>
